@@ -1,0 +1,44 @@
+<menu>
+  <drug>
+    <genericName>Fexofenadine</genericName>
+    <tradeName>Telfast</tradeName>
+    <strength>180 mg</strength>
+    <dosageform>tablet<dosageform>
+  </drug>
+  <drug>
+    <genericName>Fexofenadine</genericName>
+    <tradeName>Telfast</tradeName>
+    <strength>60 mg</strength>
+    <dosageform>tablet<dosageform>
+  </drug>
+  <drug>
+    <genericName>Loratadine</genericName>
+    <tradeName>Clarityne</tradeName>
+    <strength>10 mg</strength>
+    <dosageform>tablet<dosageform>
+  </drug>
+  <drug>
+    <genericName>Desloratadine</genericName>
+    <tradeName>Aerius</tradeName>
+    <strength>5 mg</strength>
+    <dosageform>tablet<dosageform>
+  </drug>
+  <drug>
+    <genericName>Cetirizine</genericName>
+    <tradeName>Zyrtec</tradeName>
+    <strength>10 mg</strength>
+    <dosageform>tablet<dosageform>
+  </drug>
+  <drug>
+    <genericName>Levocetirizine</genericName>
+    <tradeName>Xyzal</tradeName>
+    <strength>5 mg</strength>
+    <dosageform>tablet<dosageform>
+  </drug>
+  <drug>
+    <genericName>Bilastine</genericName>
+    <tradeName>Bilaxten</tradeName>
+    <strength>20 mg</strength>
+    <dosageform>tablet<dosageform>
+  </drug>
+</menu>
