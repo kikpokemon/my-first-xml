@@ -5,7 +5,7 @@ just for fun- lerning
 
 - Spreadsheets
 - SQL Databases
-- Dasboard
+- Dashboard
 
 ## My Portfloios
 Please see my Google Data Studio dashboard [here](https://datastudio.google.com/s/rmDJiSlwzNs)
