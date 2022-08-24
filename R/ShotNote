@@ -1,7 +1,7 @@
 ข้อมูลพื้นฐานใน R
 เขียน R ได้ 2 แบบ
-  1. ดาวน์โหลด R และ [RStudio Desktop IDE] (https://www.rstudio.com/products/rstudio/) มาใช้งานในคอมเราได้ฟรี 
-  2. บน [RStudio Cloud] (https://rstudio.cloud/content/yours?sort=name_asc)
+  1. ดาวน์โหลด R และ [RStudio Desktop IDE](https://www.rstudio.com/products/rstudio/) มาใช้งานในคอมเราได้ฟรี 
+  2. บน [RStudio Cloud](https://rstudio.cloud/content/yours?sort=name_asc)
   
 # พิมพ์โค้ดลงบนหน้าจอ Console จะแสดงผลในนั้นเลย
 # CTRL+L ใช้ Clear หน้าจอ
